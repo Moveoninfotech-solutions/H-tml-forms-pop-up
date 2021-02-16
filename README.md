@@ -10,3 +10,5 @@ Login:
 A login button
 Validate the data.(Email, Password match, etc..) and store to database.
 Use Python or Php as backend if required
+
+Complete the task on or before 24/02/2021
